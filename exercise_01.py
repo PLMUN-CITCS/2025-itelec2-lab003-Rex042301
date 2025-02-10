@@ -16,7 +16,10 @@ result = None                # None is the None literal
 # Step 5: Demonstrate case-sensitivity and reassignment
 count = 10                   # or any integer literal
 total_count = 20             # or any other integer literal
+# Example of inline arithmetic with formatting using an f-string:
 
+num1 = 5
+num2 = 3
 # Step 6: Display the values using print()
 print("Integer (count):", count)
 print("Integer (total_count):", total_count)
@@ -24,3 +27,5 @@ print("Decimal:", decimal_value)
 print("Text:", message)
 print("Boolean:", is_active)
 print("None Value:", result)
+print(f"Sum: {num1 + num2:.2f}")  
+
