@@ -1,4 +1,4 @@
-Laboratory Exercise 03 - itelec2-wk02s01e01
+#Laboratory Exercise 03 - itelec2-wk02s01e01
 
 # Step 1: Create variables with numeric literals
 count = 10                  # 10 is an integer literal
